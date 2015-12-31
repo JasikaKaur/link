@@ -1,0 +1,5 @@
+#!/bin/bash
+ftp metalab.unc.edu
+ftp> ls
+ftp> cd pub/Linux/kernel
+ftp> get linux-2.2.13.tar.gz

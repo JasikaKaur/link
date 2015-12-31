@@ -1,0 +1,2 @@
+ftp> ^C
+ftp> ssft
